@@ -1,0 +1,286 @@
+2026-03-17 07:52:15,782 - INFO - Found 5 pending item(s)
+2026-03-17 07:52:15,783 - INFO - === Processing: FILE_DROP_myfile_20260317_075143.md ===
+2026-03-17 07:52:15,784 - INFO - Processing: FILE_DROP_myfile_20260317_075143.md
+2026-03-17 07:52:15,956 - INFO - === Processing: FILE_DROP_myfile_20260317_075213.md ===
+2026-03-17 07:52:15,957 - INFO - Processing: FILE_DROP_myfile_20260317_075213.md
+2026-03-17 07:52:16,023 - INFO - === Processing: FILE_DROP_test_document_20260317_074735.md ===
+2026-03-17 07:52:16,024 - INFO - Processing: FILE_DROP_test_document_20260317_074735.md
+2026-03-17 07:52:16,081 - INFO - === Processing: FILE_DROP_test_document_20260317_075143.md ===
+2026-03-17 07:52:16,082 - INFO - Processing: FILE_DROP_test_document_20260317_075143.md
+2026-03-17 07:52:16,152 - INFO - === Processing: FILE_DROP_test_document_20260317_075213.md ===
+2026-03-17 07:52:16,153 - INFO - Processing: FILE_DROP_test_document_20260317_075213.md
+2026-03-17 07:52:16,230 - INFO - Dashboard updated
+2026-03-17 07:58:53,097 - INFO - Found 31 pending item(s)
+2026-03-17 07:58:53,098 - INFO - === Processing: FILE_DROP_myfile_20260317_075143.md ===
+2026-03-17 07:58:53,099 - INFO - Processing: FILE_DROP_myfile_20260317_075143.md
+2026-03-17 07:58:53,204 - INFO - === Processing: FILE_DROP_myfile_20260317_075213.md ===
+2026-03-17 07:58:53,206 - INFO - Processing: FILE_DROP_myfile_20260317_075213.md
+2026-03-17 07:58:53,307 - INFO - === Processing: FILE_DROP_myfile_20260317_075243.md ===
+2026-03-17 07:58:53,308 - INFO - Processing: FILE_DROP_myfile_20260317_075243.md
+2026-03-17 07:58:53,412 - INFO - === Processing: FILE_DROP_myfile_20260317_075313.md ===
+2026-03-17 07:58:53,413 - INFO - Processing: FILE_DROP_myfile_20260317_075313.md
+2026-03-17 07:58:53,506 - INFO - === Processing: FILE_DROP_myfile_20260317_075343.md ===
+2026-03-17 07:58:53,507 - INFO - Processing: FILE_DROP_myfile_20260317_075343.md
+2026-03-17 07:58:53,689 - INFO - === Processing: FILE_DROP_myfile_20260317_075413.md ===
+2026-03-17 07:58:53,689 - INFO - Processing: FILE_DROP_myfile_20260317_075413.md
+2026-03-17 07:58:53,776 - INFO - === Processing: FILE_DROP_myfile_20260317_075443.md ===
+2026-03-17 07:58:53,777 - INFO - Processing: FILE_DROP_myfile_20260317_075443.md
+2026-03-17 07:58:53,848 - INFO - === Processing: FILE_DROP_myfile_20260317_075513.md ===
+2026-03-17 07:58:53,849 - INFO - Processing: FILE_DROP_myfile_20260317_075513.md
+2026-03-17 07:58:53,907 - INFO - === Processing: FILE_DROP_myfile_20260317_075543.md ===
+2026-03-17 07:58:53,908 - INFO - Processing: FILE_DROP_myfile_20260317_075543.md
+2026-03-17 07:58:53,965 - INFO - === Processing: FILE_DROP_myfile_20260317_075613.md ===
+2026-03-17 07:58:53,966 - INFO - Processing: FILE_DROP_myfile_20260317_075613.md
+2026-03-17 07:58:54,022 - INFO - === Processing: FILE_DROP_myfile_20260317_075643.md ===
+2026-03-17 07:58:54,023 - INFO - Processing: FILE_DROP_myfile_20260317_075643.md
+2026-03-17 07:58:54,086 - INFO - === Processing: FILE_DROP_myfile_20260317_075713.md ===
+2026-03-17 07:58:54,086 - INFO - Processing: FILE_DROP_myfile_20260317_075713.md
+2026-03-17 07:58:54,140 - INFO - === Processing: FILE_DROP_myfile_20260317_075743.md ===
+2026-03-17 07:58:54,141 - INFO - Processing: FILE_DROP_myfile_20260317_075743.md
+2026-03-17 07:58:54,191 - INFO - === Processing: FILE_DROP_myfile_20260317_075813.md ===
+2026-03-17 07:58:54,192 - INFO - Processing: FILE_DROP_myfile_20260317_075813.md
+2026-03-17 07:58:54,247 - INFO - === Processing: FILE_DROP_myfile_20260317_075843.md ===
+2026-03-17 07:58:54,248 - INFO - Processing: FILE_DROP_myfile_20260317_075843.md
+2026-03-17 07:58:54,310 - INFO - === Processing: FILE_DROP_test_document_20260317_074735.md ===
+2026-03-17 07:58:54,311 - INFO - Processing: FILE_DROP_test_document_20260317_074735.md
+2026-03-17 07:58:54,390 - INFO - === Processing: FILE_DROP_test_document_20260317_075143.md ===
+2026-03-17 07:58:54,390 - INFO - Processing: FILE_DROP_test_document_20260317_075143.md
+2026-03-17 07:58:54,450 - INFO - === Processing: FILE_DROP_test_document_20260317_075213.md ===
+2026-03-17 07:58:54,451 - INFO - Processing: FILE_DROP_test_document_20260317_075213.md
+2026-03-17 07:58:54,508 - INFO - === Processing: FILE_DROP_test_document_20260317_075243.md ===
+2026-03-17 07:58:54,509 - INFO - Processing: FILE_DROP_test_document_20260317_075243.md
+2026-03-17 07:58:54,575 - INFO - === Processing: FILE_DROP_test_document_20260317_075313.md ===
+2026-03-17 07:58:54,575 - INFO - Processing: FILE_DROP_test_document_20260317_075313.md
+2026-03-17 07:58:54,642 - INFO - === Processing: FILE_DROP_test_document_20260317_075343.md ===
+2026-03-17 07:58:54,642 - INFO - Processing: FILE_DROP_test_document_20260317_075343.md
+2026-03-17 07:58:54,703 - INFO - === Processing: FILE_DROP_test_document_20260317_075413.md ===
+2026-03-17 07:58:54,704 - INFO - Processing: FILE_DROP_test_document_20260317_075413.md
+2026-03-17 07:58:54,754 - INFO - === Processing: FILE_DROP_test_document_20260317_075443.md ===
+2026-03-17 07:58:54,754 - INFO - Processing: FILE_DROP_test_document_20260317_075443.md
+2026-03-17 07:58:54,806 - INFO - === Processing: FILE_DROP_test_document_20260317_075513.md ===
+2026-03-17 07:58:54,807 - INFO - Processing: FILE_DROP_test_document_20260317_075513.md
+2026-03-17 07:58:54,866 - INFO - === Processing: FILE_DROP_test_document_20260317_075543.md ===
+2026-03-17 07:58:54,866 - INFO - Processing: FILE_DROP_test_document_20260317_075543.md
+2026-03-17 07:58:54,916 - INFO - === Processing: FILE_DROP_test_document_20260317_075613.md ===
+2026-03-17 07:58:54,917 - INFO - Processing: FILE_DROP_test_document_20260317_075613.md
+2026-03-17 07:58:54,973 - INFO - === Processing: FILE_DROP_test_document_20260317_075643.md ===
+2026-03-17 07:58:54,974 - INFO - Processing: FILE_DROP_test_document_20260317_075643.md
+2026-03-17 07:58:55,019 - INFO - === Processing: FILE_DROP_test_document_20260317_075713.md ===
+2026-03-17 07:58:55,020 - INFO - Processing: FILE_DROP_test_document_20260317_075713.md
+2026-03-17 07:58:55,080 - INFO - === Processing: FILE_DROP_test_document_20260317_075743.md ===
+2026-03-17 07:58:55,081 - INFO - Processing: FILE_DROP_test_document_20260317_075743.md
+2026-03-17 07:58:55,122 - INFO - === Processing: FILE_DROP_test_document_20260317_075813.md ===
+2026-03-17 07:58:55,123 - INFO - Processing: FILE_DROP_test_document_20260317_075813.md
+2026-03-17 07:58:55,167 - INFO - === Processing: FILE_DROP_test_document_20260317_075843.md ===
+2026-03-17 07:58:55,168 - INFO - Processing: FILE_DROP_test_document_20260317_075843.md
+2026-03-17 07:58:55,242 - INFO - Dashboard updated
+2026-03-17 08:17:10,736 - INFO - Found 6 pending item(s)
+2026-03-17 08:17:10,737 - INFO - === Processing: FILE_DROP_test_file_20260317_081416.md ===
+2026-03-17 08:17:10,737 - INFO - Processing: FILE_DROP_test_file_20260317_081416.md
+2026-03-17 08:17:10,835 - INFO - === Processing: FILE_DROP_test_file_20260317_081446.md ===
+2026-03-17 08:17:10,836 - INFO - Processing: FILE_DROP_test_file_20260317_081446.md
+2026-03-17 08:17:10,893 - INFO - === Processing: FILE_DROP_test_file_20260317_081516.md ===
+2026-03-17 08:17:10,893 - INFO - Processing: FILE_DROP_test_file_20260317_081516.md
+2026-03-17 08:17:10,933 - INFO - === Processing: FILE_DROP_test_file_20260317_081546.md ===
+2026-03-17 08:17:10,933 - INFO - Processing: FILE_DROP_test_file_20260317_081546.md
+2026-03-17 08:17:10,981 - INFO - === Processing: FILE_DROP_test_file_20260317_081616.md ===
+2026-03-17 08:17:10,981 - INFO - Processing: FILE_DROP_test_file_20260317_081616.md
+2026-03-17 08:17:11,021 - INFO - === Processing: FILE_DROP_test_file_20260317_081646.md ===
+2026-03-17 08:17:11,022 - INFO - Processing: FILE_DROP_test_file_20260317_081646.md
+2026-03-17 08:17:11,087 - INFO - Dashboard updated
+2026-03-17 08:19:53,626 - INFO - Found 12 pending item(s)
+2026-03-17 08:19:53,627 - INFO - === Processing: FILE_DROP_test_file_20260317_081416.md ===
+2026-03-17 08:19:53,627 - INFO - Processing: FILE_DROP_test_file_20260317_081416.md
+2026-03-17 08:19:53,670 - INFO - === Processing: FILE_DROP_test_file_20260317_081446.md ===
+2026-03-17 08:19:53,671 - INFO - Processing: FILE_DROP_test_file_20260317_081446.md
+2026-03-17 08:19:53,716 - INFO - === Processing: FILE_DROP_test_file_20260317_081516.md ===
+2026-03-17 08:19:53,717 - INFO - Processing: FILE_DROP_test_file_20260317_081516.md
+2026-03-17 08:19:53,762 - INFO - === Processing: FILE_DROP_test_file_20260317_081546.md ===
+2026-03-17 08:19:53,763 - INFO - Processing: FILE_DROP_test_file_20260317_081546.md
+2026-03-17 08:19:53,807 - INFO - === Processing: FILE_DROP_test_file_20260317_081616.md ===
+2026-03-17 08:19:53,807 - INFO - Processing: FILE_DROP_test_file_20260317_081616.md
+2026-03-17 08:19:53,852 - INFO - === Processing: FILE_DROP_test_file_20260317_081646.md ===
+2026-03-17 08:19:53,853 - INFO - Processing: FILE_DROP_test_file_20260317_081646.md
+2026-03-17 08:19:53,900 - INFO - === Processing: FILE_DROP_test_file_20260317_081716.md ===
+2026-03-17 08:19:53,900 - INFO - Processing: FILE_DROP_test_file_20260317_081716.md
+2026-03-17 08:19:53,945 - INFO - === Processing: FILE_DROP_test_file_20260317_081746.md ===
+2026-03-17 08:19:53,946 - INFO - Processing: FILE_DROP_test_file_20260317_081746.md
+2026-03-17 08:19:53,989 - INFO - === Processing: FILE_DROP_test_file_20260317_081816.md ===
+2026-03-17 08:19:53,991 - INFO - Processing: FILE_DROP_test_file_20260317_081816.md
+2026-03-17 08:19:54,029 - INFO - === Processing: FILE_DROP_test_file_20260317_081846.md ===
+2026-03-17 08:19:54,029 - INFO - Processing: FILE_DROP_test_file_20260317_081846.md
+2026-03-17 08:19:54,067 - INFO - === Processing: FILE_DROP_test_file_20260317_081916.md ===
+2026-03-17 08:19:54,068 - INFO - Processing: FILE_DROP_test_file_20260317_081916.md
+2026-03-17 08:19:54,110 - INFO - === Processing: FILE_DROP_test_file_20260317_081946.md ===
+2026-03-17 08:19:54,110 - INFO - Processing: FILE_DROP_test_file_20260317_081946.md
+2026-03-17 08:19:54,156 - INFO - Dashboard updated
+2026-03-17 08:35:33,284 - INFO - Found 4 pending item(s)
+2026-03-17 08:35:33,285 - INFO - === Processing: FILE_DROP_myfile_20260317_083517.md ===
+2026-03-17 08:35:33,285 - INFO - Processing: FILE_DROP_myfile_20260317_083517.md
+2026-03-17 08:35:33,323 - ERROR - [ERROR] Failed: Qwen Code not found - please install Qwen Code CLI
+2026-03-17 08:35:33,324 - INFO - === Processing: FILE_DROP_test_file_20260317_083317.md ===
+2026-03-17 08:35:33,324 - INFO - Processing: FILE_DROP_test_file_20260317_083317.md
+2026-03-17 08:35:33,353 - ERROR - [ERROR] Failed: Qwen Code not found - please install Qwen Code CLI
+2026-03-17 08:35:33,355 - INFO - === Processing: FILE_DROP_test_file_20260317_083447.md ===
+2026-03-17 08:35:33,356 - INFO - Processing: FILE_DROP_test_file_20260317_083447.md
+2026-03-17 08:35:33,392 - ERROR - [ERROR] Failed: Qwen Code not found - please install Qwen Code CLI
+2026-03-17 08:35:33,393 - INFO - === Processing: FILE_DROP_test_file_20260317_083517.md ===
+2026-03-17 08:35:33,393 - INFO - Processing: FILE_DROP_test_file_20260317_083517.md
+2026-03-17 08:35:33,426 - ERROR - [ERROR] Failed: Qwen Code not found - please install Qwen Code CLI
+2026-03-17 08:35:33,429 - INFO - Dashboard updated
+2026-03-17 08:46:35,125 - INFO - Found 48 pending item(s)
+2026-03-17 08:46:35,125 - INFO - === Processing: FILE_DROP_myfile_20260317_083517.md ===
+2026-03-17 08:46:35,126 - INFO - Processing: FILE_DROP_myfile_20260317_083517.md
+2026-03-17 08:46:56,840 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_083517.md
+2026-03-17 08:46:56,843 - INFO - Summary: Processed (check output for details)
+2026-03-17 08:46:56,844 - INFO - === Processing: FILE_DROP_myfile_20260317_083547.md ===
+2026-03-17 08:46:56,845 - INFO - Processing: FILE_DROP_myfile_20260317_083547.md
+2026-03-17 08:47:18,041 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_083547.md
+2026-03-17 08:47:18,054 - INFO - Summary: Processed (check output for details)
+2026-03-17 08:47:18,060 - INFO - === Processing: FILE_DROP_myfile_20260317_083617.md ===
+2026-03-17 08:47:18,062 - INFO - Processing: FILE_DROP_myfile_20260317_083617.md
+2026-03-17 08:47:35,743 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_083617.md
+2026-03-17 08:47:35,744 - INFO - Summary: Processed (check output for details)
+2026-03-17 08:47:35,744 - INFO - === Processing: FILE_DROP_myfile_20260317_083647.md ===
+2026-03-17 08:47:35,745 - INFO - Processing: FILE_DROP_myfile_20260317_083647.md
+2026-03-17 08:47:55,354 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_083647.md
+2026-03-17 08:47:55,356 - INFO - Summary: Processed (check output for details)
+2026-03-17 08:47:55,357 - INFO - === Processing: FILE_DROP_myfile_20260317_083717.md ===
+2026-03-17 08:47:55,357 - INFO - Processing: FILE_DROP_myfile_20260317_083717.md
+2026-03-17 08:48:15,545 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_083717.md
+2026-03-17 08:48:15,546 - INFO - Summary: Processed (check output for details)
+2026-03-17 08:48:15,547 - INFO - === Processing: FILE_DROP_myfile_20260317_083747.md ===
+2026-03-17 08:48:15,547 - INFO - Processing: FILE_DROP_myfile_20260317_083747.md
+2026-03-17 08:48:34,519 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_083747.md
+2026-03-17 08:48:34,526 - INFO - Summary: Processed (check output for details)
+2026-03-17 08:48:34,527 - INFO - === Processing: FILE_DROP_myfile_20260317_083817.md ===
+2026-03-17 08:48:34,528 - INFO - Processing: FILE_DROP_myfile_20260317_083817.md
+2026-03-17 09:10:31,035 - INFO - Found 58 pending item(s)
+2026-03-17 09:10:31,036 - INFO - === Processing: FILE_DROP_myfile_20260317_083817.md ===
+2026-03-17 09:10:31,036 - INFO - Processing: FILE_DROP_myfile_20260317_083817.md
+2026-03-17 09:10:54,681 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_083817.md
+2026-03-17 09:10:54,684 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:10:54,685 - INFO - === Processing: FILE_DROP_myfile_20260317_083847.md ===
+2026-03-17 09:10:54,686 - INFO - Processing: FILE_DROP_myfile_20260317_083847.md
+2026-03-17 09:11:21,023 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_083847.md
+2026-03-17 09:11:21,026 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:11:21,027 - INFO - === Processing: FILE_DROP_myfile_20260317_083917.md ===
+2026-03-17 09:11:21,028 - INFO - Processing: FILE_DROP_myfile_20260317_083917.md
+2026-03-17 09:11:43,416 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_083917.md
+2026-03-17 09:11:43,418 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:11:43,418 - INFO - === Processing: FILE_DROP_myfile_20260317_083947.md ===
+2026-03-17 09:11:43,419 - INFO - Processing: FILE_DROP_myfile_20260317_083947.md
+2026-03-17 09:12:10,752 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_083947.md
+2026-03-17 09:12:10,752 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:12:10,753 - INFO - === Processing: FILE_DROP_myfile_20260317_084017.md ===
+2026-03-17 09:12:10,754 - INFO - Processing: FILE_DROP_myfile_20260317_084017.md
+2026-03-17 09:12:30,358 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084017.md
+2026-03-17 09:12:30,359 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:12:30,360 - INFO - === Processing: FILE_DROP_myfile_20260317_084047.md ===
+2026-03-17 09:12:30,361 - INFO - Processing: FILE_DROP_myfile_20260317_084047.md
+2026-03-17 09:12:47,556 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084047.md
+2026-03-17 09:12:47,557 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:12:47,558 - INFO - === Processing: FILE_DROP_myfile_20260317_084117.md ===
+2026-03-17 09:12:47,558 - INFO - Processing: FILE_DROP_myfile_20260317_084117.md
+2026-03-17 09:13:08,978 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084117.md
+2026-03-17 09:13:08,978 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:13:08,979 - INFO - === Processing: FILE_DROP_myfile_20260317_084147.md ===
+2026-03-17 09:13:08,980 - INFO - Processing: FILE_DROP_myfile_20260317_084147.md
+2026-03-17 09:13:37,067 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084147.md
+2026-03-17 09:13:37,067 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:13:37,068 - INFO - === Processing: FILE_DROP_myfile_20260317_084217.md ===
+2026-03-17 09:13:37,069 - INFO - Processing: FILE_DROP_myfile_20260317_084217.md
+2026-03-17 09:13:57,894 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084217.md
+2026-03-17 09:13:57,894 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:13:57,895 - INFO - === Processing: FILE_DROP_myfile_20260317_084247.md ===
+2026-03-17 09:13:57,895 - INFO - Processing: FILE_DROP_myfile_20260317_084247.md
+2026-03-17 09:14:22,480 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084247.md
+2026-03-17 09:14:22,481 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:14:22,482 - INFO - === Processing: FILE_DROP_myfile_20260317_084317.md ===
+2026-03-17 09:14:22,483 - INFO - Processing: FILE_DROP_myfile_20260317_084317.md
+2026-03-17 09:14:41,473 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084317.md
+2026-03-17 09:14:41,476 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:14:41,477 - INFO - === Processing: FILE_DROP_myfile_20260317_084347.md ===
+2026-03-17 09:14:41,477 - INFO - Processing: FILE_DROP_myfile_20260317_084347.md
+2026-03-17 09:15:02,497 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084347.md
+2026-03-17 09:15:02,498 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:15:02,499 - INFO - === Processing: FILE_DROP_myfile_20260317_084418.md ===
+2026-03-17 09:15:02,499 - INFO - Processing: FILE_DROP_myfile_20260317_084418.md
+2026-03-17 09:15:21,732 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084418.md
+2026-03-17 09:15:21,734 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:15:21,734 - INFO - === Processing: FILE_DROP_myfile_20260317_084448.md ===
+2026-03-17 09:15:21,737 - INFO - Processing: FILE_DROP_myfile_20260317_084448.md
+2026-03-17 09:15:41,587 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084448.md
+2026-03-17 09:15:41,590 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:15:41,591 - INFO - === Processing: FILE_DROP_myfile_20260317_084518.md ===
+2026-03-17 09:15:41,592 - INFO - Processing: FILE_DROP_myfile_20260317_084518.md
+2026-03-17 09:16:02,329 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084518.md
+2026-03-17 09:16:02,335 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:16:02,336 - INFO - === Processing: FILE_DROP_myfile_20260317_084548.md ===
+2026-03-17 09:16:02,337 - INFO - Processing: FILE_DROP_myfile_20260317_084548.md
+2026-03-17 09:16:22,702 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084548.md
+2026-03-17 09:16:22,704 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:16:22,705 - INFO - === Processing: FILE_DROP_myfile_20260317_084618.md ===
+2026-03-17 09:16:22,705 - INFO - Processing: FILE_DROP_myfile_20260317_084618.md
+2026-03-17 09:16:48,150 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084618.md
+2026-03-17 09:16:48,155 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:16:48,156 - INFO - === Processing: FILE_DROP_myfile_20260317_084648.md ===
+2026-03-17 09:16:48,157 - INFO - Processing: FILE_DROP_myfile_20260317_084648.md
+2026-03-17 09:17:21,418 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084648.md
+2026-03-17 09:17:21,421 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:17:21,422 - INFO - === Processing: FILE_DROP_myfile_20260317_084718.md ===
+2026-03-17 09:17:21,424 - INFO - Processing: FILE_DROP_myfile_20260317_084718.md
+2026-03-17 09:17:44,325 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084718.md
+2026-03-17 09:17:44,327 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:17:44,327 - INFO - === Processing: FILE_DROP_myfile_20260317_084748.md ===
+2026-03-17 09:17:44,328 - INFO - Processing: FILE_DROP_myfile_20260317_084748.md
+2026-03-17 09:18:35,069 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084748.md
+2026-03-17 09:18:35,070 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:18:35,071 - INFO - === Processing: FILE_DROP_myfile_20260317_084818.md ===
+2026-03-17 09:18:35,071 - INFO - Processing: FILE_DROP_myfile_20260317_084818.md
+2026-03-17 09:18:55,842 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084818.md
+2026-03-17 09:18:55,846 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:18:55,847 - INFO - === Processing: FILE_DROP_myfile_20260317_084848.md ===
+2026-03-17 09:18:55,847 - INFO - Processing: FILE_DROP_myfile_20260317_084848.md
+2026-03-17 09:19:23,328 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_084848.md
+2026-03-17 09:19:23,336 - INFO - Summary: Processed (check output for details)
+2026-03-17 09:19:23,339 - INFO - === Processing: FILE_DROP_myfile_20260317_084918.md ===
+2026-03-17 09:19:23,340 - INFO - Processing: FILE_DROP_myfile_20260317_084918.md
+2026-03-17 10:38:55,569 - INFO - Found 15 pending item(s)
+2026-03-17 10:38:55,570 - INFO - === Processing: FILE_DROP_URGENT_invoice_20260317_093147.md ===
+2026-03-17 10:38:55,571 - INFO - Processing: FILE_DROP_URGENT_invoice_20260317_093147.md
+2026-03-17 10:39:12,936 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_URGENT_invoice_20260317_093147.md
+2026-03-17 10:39:12,936 - INFO - Summary: Processed (check output for details)
+2026-03-17 10:39:12,936 - INFO - === Processing: FILE_DROP_URGENT_invoice_20260317_093217.md ===
+2026-03-17 10:39:12,937 - INFO - Processing: FILE_DROP_URGENT_invoice_20260317_093217.md
+2026-03-17 10:39:32,397 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_URGENT_invoice_20260317_093217.md
+2026-03-17 10:39:32,398 - INFO - Summary: Processed (check output for details)
+2026-03-17 10:39:32,398 - INFO - === Processing: FILE_DROP_payment_contract_20260317_093147.md ===
+2026-03-17 10:39:32,398 - INFO - Processing: FILE_DROP_payment_contract_20260317_093147.md
+2026-03-17 10:39:51,345 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_payment_contract_20260317_093147.md
+2026-03-17 10:39:51,345 - INFO - Summary: Processed (check output for details)
+2026-03-17 10:39:51,346 - INFO - === Processing: FILE_DROP_payment_contract_20260317_093217.md ===
+2026-03-17 10:39:51,346 - INFO - Processing: FILE_DROP_payment_contract_20260317_093217.md
+2026-03-17 10:40:10,520 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_payment_contract_20260317_093217.md
+2026-03-17 10:40:10,521 - INFO - Summary: Processed (check output for details)
+2026-03-17 10:40:10,521 - INFO - === Processing: FILE_DROP_myfile_20260317_093117.md ===
+2026-03-17 10:40:10,521 - INFO - Processing: FILE_DROP_myfile_20260317_093117.md
+2026-03-17 10:40:35,812 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_093117.md
+2026-03-17 10:40:35,812 - INFO - Summary: Processed (check output for details)
+2026-03-17 10:40:35,812 - INFO - === Processing: FILE_DROP_myfile_20260317_093147.md ===
+2026-03-17 10:40:35,813 - INFO - Processing: FILE_DROP_myfile_20260317_093147.md
+2026-03-17 10:40:52,024 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_093147.md
+2026-03-17 10:40:52,024 - INFO - Summary: Processed (check output for details)
+2026-03-17 10:40:52,025 - INFO - === Processing: FILE_DROP_myfile_20260317_093217.md ===
+2026-03-17 10:40:52,025 - INFO - Processing: FILE_DROP_myfile_20260317_093217.md
+2026-03-17 10:41:12,940 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_myfile_20260317_093217.md
+2026-03-17 10:41:12,940 - INFO - Summary: Processed (check output for details)
+2026-03-17 10:41:12,940 - INFO - === Processing: FILE_DROP_report_20260317_093117.md ===
+2026-03-17 10:41:12,941 - INFO - Processing: FILE_DROP_report_20260317_093117.md
+2026-03-17 10:41:30,981 - INFO - [OK] Moved to: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Done\2026-03-17\FILE_DROP_report_20260317_093117.md
+2026-03-17 10:41:30,982 - INFO - Summary: Processed (check output for details)
+2026-03-17 10:41:30,982 - INFO - === Processing: FILE_DROP_report_20260317_093147.md ===
+2026-03-17 10:41:30,982 - INFO - Processing: FILE_DROP_report_20260317_093147.md
+2026-03-17 16:29:22,099 - ERROR - [ERROR] Failed: Timeout - task took too long
+2026-03-17 16:29:22,100 - INFO - === Processing: FILE_DROP_report_20260317_093217.md ===
+2026-03-17 16:29:22,100 - INFO - Processing: FILE_DROP_report_20260317_093217.md

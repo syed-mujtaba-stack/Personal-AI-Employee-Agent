@@ -1,0 +1,16 @@
+# AI Employee Vault - Python Dependencies
+
+# Core dependencies
+watchdog>=4.0.0       # File system watching
+
+# Optional - for Gmail watcher (if implementing)
+# google-auth>=2.0.0
+# google-auth-oauthlib>=1.0.0
+# google-auth-httplib2>=0.2.0
+# google-api-python-client>=2.0.0
+
+# Optional - for WhatsApp watcher (if implementing)
+# playwright>=1.40.0
+
+# Utilities
+requests>=2.31.0      # HTTP requests

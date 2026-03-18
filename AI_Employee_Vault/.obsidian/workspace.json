@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "0e731ad216ee0737",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cf7838594f8f00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46e43935c395631a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Inbox/URGENT_critical_invoice.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "URGENT_critical_invoice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "508150500abb9e9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb8be1f9dc17f01e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3328ff4838759d00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b890bbad7071b466",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c95e3e8aa4d984f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd6f5ad4459c40b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef069842b0043b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "332c18004284b554",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "900128e18b4b1470",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7a562c17fdc9f864",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "98d7bdee7286414d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4213e233f993b6cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3328ff4838759d00",
+  "lastOpenFiles": [
+    "scripts/qa_orchestrator_results.txt",
+    "scripts/qa_test_orchestrator.py",
+    "scripts/qa_priority_results.txt",
+    "scripts/qa_test_priority.py",
+    "Needs_Action/FILE_DROP_URGENT_critical_invoice_20260318_060059.md",
+    "Needs_Action/FILE_DROP_qa_normal_test_20260318_060059.md",
+    "Needs_Action/FILE_DROP_payment_contract_20260318_060059.md",
+    "Needs_Action/FILE_DROP_invoice_test_20260318_060059.md",
+    "Needs_Action/FILE_DROP_FYI_archive_20260318_060059.md",
+    "Inbox/invoice_test.pdf",
+    "Done/2026-03-17/FILE_DROP_myfile_20260317_093117.md",
+    "scripts/qa_watcher_results.txt",
+    "scripts/qa_test_watcher.py",
+    "Inbox/FYI_archive.txt",
+    "Inbox/URGENT_critical_invoice.pdf",
+    "Inbox/qa_normal_test.txt",
+    "scripts/Inbox",
+    "Needs_Action/FILE_DROP_URGENT_invoice_20260318_052218.md",
+    "Needs_Action/FILE_DROP_test_normal_20260318_052218.md",
+    "Needs_Action/FILE_DROP_test_file_20260318_052218.md",
+    "Needs_Action/FILE_DROP_report_20260318_052218.md",
+    "Needs_Action/FILE_DROP_payment_contract_20260318_052218.md",
+    "Needs_Action/FILE_DROP_myfile_20260318_052218.md",
+    "Done/2026-03-17/FILE_DROP_report_20260317_093117.md",
+    "Done/2026-03-17/FILE_DROP_myfile_20260317_093217.md",
+    "Done/2026-03-17/FILE_DROP_myfile_20260317_093147.md",
+    "Done/2026-03-17/FILE_DROP_payment_contract_20260317_093217.md",
+    "Done/2026-03-17/FILE_DROP_payment_contract_20260317_093147.md",
+    "Done/2026-03-17/FILE_DROP_URGENT_invoice_20260317_093217.md",
+    "Done/2026-03-17/FILE_DROP_URGENT_invoice_20260317_093147.md",
+    "Needs_Action/FILE_DROP_URGENT_invoice_20260317_093217.md",
+    "Needs_Action/FILE_DROP_test_normal_20260317_093217.md",
+    "Needs_Action/FILE_DROP_test_file_20260317_093217.md",
+    "Needs_Action/FILE_DROP_report_20260317_093217.md",
+    "Needs_Action/FILE_DROP_payment_contract_20260317_093217.md",
+    "Needs_Action/FILE_DROP_myfile_20260317_093217.md"
+  ]
+}

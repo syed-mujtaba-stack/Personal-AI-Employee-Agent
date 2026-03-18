@@ -1,0 +1,650 @@
+2026-03-17 07:47:35,356 - FileSystemWatcher - INFO - FileSystemWatcher initialized for vault: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault
+2026-03-17 07:47:35,357 - FileSystemWatcher - INFO - Watching folder: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Inbox
+2026-03-17 07:47:35,358 - FileSystemWatcher - INFO - Starting FileSystemWatcher (interval: 30s)
+2026-03-17 07:47:35,359 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 07:47:35,363 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_074735.md
+2026-03-17 07:47:35,364 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:51:43,061 - FileSystemWatcher - INFO - FileSystemWatcher initialized for vault: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault
+2026-03-17 07:51:43,097 - FileSystemWatcher - INFO - Watching folder: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Inbox
+2026-03-17 07:51:43,102 - FileSystemWatcher - INFO - Starting FileSystemWatcher (interval: 30s)
+2026-03-17 07:51:43,109 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:51:43,112 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075143.md
+2026-03-17 07:51:43,123 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:51:43,128 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075143.md
+2026-03-17 07:51:43,135 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:52:13,138 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:52:13,143 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075213.md
+2026-03-17 07:52:13,145 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:52:13,161 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075213.md
+2026-03-17 07:52:13,168 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:52:43,176 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:52:43,183 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075243.md
+2026-03-17 07:52:43,189 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:52:43,212 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075243.md
+2026-03-17 07:52:43,221 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:53:13,230 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:53:13,244 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075313.md
+2026-03-17 07:53:13,250 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:53:13,261 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075313.md
+2026-03-17 07:53:13,308 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:53:43,314 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:53:43,321 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075343.md
+2026-03-17 07:53:43,331 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:53:43,347 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075343.md
+2026-03-17 07:53:43,370 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:54:13,386 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:54:13,408 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075413.md
+2026-03-17 07:54:13,417 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:54:13,421 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075413.md
+2026-03-17 07:54:13,425 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:54:43,429 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:54:43,432 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075443.md
+2026-03-17 07:54:43,434 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:54:43,437 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075443.md
+2026-03-17 07:54:43,440 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:55:13,450 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:55:13,460 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075513.md
+2026-03-17 07:55:13,462 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:55:13,465 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075513.md
+2026-03-17 07:55:13,466 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:55:43,469 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:55:43,474 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075543.md
+2026-03-17 07:55:43,479 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:55:43,485 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075543.md
+2026-03-17 07:55:43,489 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:56:13,494 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:56:13,508 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075613.md
+2026-03-17 07:56:13,512 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:56:13,518 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075613.md
+2026-03-17 07:56:13,522 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:56:43,530 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:56:43,536 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075643.md
+2026-03-17 07:56:43,545 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:56:43,554 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075643.md
+2026-03-17 07:56:43,556 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:57:13,562 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:57:13,613 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075713.md
+2026-03-17 07:57:13,686 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:57:13,727 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075713.md
+2026-03-17 07:57:13,794 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:57:43,836 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:57:43,849 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075743.md
+2026-03-17 07:57:43,858 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:57:43,867 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075743.md
+2026-03-17 07:57:43,873 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:58:13,878 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:58:13,884 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075813.md
+2026-03-17 07:58:13,887 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:58:13,895 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075813.md
+2026-03-17 07:58:13,900 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:58:43,904 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:58:43,908 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075843.md
+2026-03-17 07:58:43,911 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:58:43,914 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075843.md
+2026-03-17 07:58:43,917 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:59:13,918 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:59:13,928 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075913.md
+2026-03-17 07:59:13,930 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:59:13,933 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075913.md
+2026-03-17 07:59:13,934 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 07:59:43,937 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 07:59:43,940 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_075943.md
+2026-03-17 07:59:43,943 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 07:59:43,948 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_075943.md
+2026-03-17 07:59:43,952 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:00:13,956 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:00:13,968 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080013.md
+2026-03-17 08:00:13,976 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:00:13,986 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080013.md
+2026-03-17 08:00:13,989 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:00:43,993 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:00:43,995 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080043.md
+2026-03-17 08:00:44,001 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:00:44,005 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080044.md
+2026-03-17 08:00:44,009 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:01:14,013 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:01:14,032 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080114.md
+2026-03-17 08:01:14,036 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:01:14,045 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080114.md
+2026-03-17 08:01:14,051 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:01:44,055 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:01:44,066 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080144.md
+2026-03-17 08:01:44,084 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:01:44,095 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080144.md
+2026-03-17 08:01:44,101 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:02:14,159 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:02:14,163 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080214.md
+2026-03-17 08:02:14,196 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:02:14,212 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080214.md
+2026-03-17 08:02:14,216 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:02:44,226 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:02:44,245 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080244.md
+2026-03-17 08:02:44,251 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:02:44,263 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080244.md
+2026-03-17 08:02:44,269 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:03:14,275 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:03:14,282 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080314.md
+2026-03-17 08:03:14,284 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:03:14,297 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080314.md
+2026-03-17 08:03:14,301 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:03:44,306 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:03:44,312 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080344.md
+2026-03-17 08:03:44,316 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:03:44,336 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080344.md
+2026-03-17 08:03:44,338 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:04:14,584 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:04:14,635 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080414.md
+2026-03-17 08:04:14,647 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:04:14,652 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080414.md
+2026-03-17 08:04:14,656 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:04:44,661 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:04:44,665 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080444.md
+2026-03-17 08:04:44,671 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:04:44,679 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080444.md
+2026-03-17 08:04:44,683 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:05:14,686 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:05:14,690 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080514.md
+2026-03-17 08:05:14,693 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:05:14,698 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080514.md
+2026-03-17 08:05:14,702 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:05:44,711 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:05:44,715 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080544.md
+2026-03-17 08:05:44,720 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:05:44,724 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080544.md
+2026-03-17 08:05:44,729 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:06:14,735 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:06:14,750 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080614.md
+2026-03-17 08:06:14,803 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:06:14,909 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080614.md
+2026-03-17 08:06:14,931 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:06:44,950 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:06:44,972 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080644.md
+2026-03-17 08:06:44,974 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:06:44,984 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080644.md
+2026-03-17 08:06:44,994 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:07:14,999 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:07:15,001 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080715.md
+2026-03-17 08:07:15,005 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:07:15,009 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080715.md
+2026-03-17 08:07:15,013 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:07:45,020 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:07:45,022 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080745.md
+2026-03-17 08:07:45,031 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:07:45,043 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080745.md
+2026-03-17 08:07:45,059 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:08:15,071 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:08:15,076 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_080815.md
+2026-03-17 08:08:15,085 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:08:15,100 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_document_20260317_080815.md
+2026-03-17 08:08:15,221 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-03-17 08:08:20,439 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
+2026-03-17 08:14:16,066 - FileSystemWatcher - INFO - FileSystemWatcher initialized for vault: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault
+2026-03-17 08:14:16,093 - FileSystemWatcher - INFO - Watching folder: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Inbox
+2026-03-17 08:14:16,094 - FileSystemWatcher - INFO - Starting FileSystemWatcher (interval: 30s)
+2026-03-17 08:14:16,095 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:14:16,098 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081416.md
+2026-03-17 08:14:16,102 - FileSystemWatcher - INFO - Created action file for: test_file.md
+2026-03-17 08:14:46,106 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:14:46,118 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081446.md
+2026-03-17 08:14:46,120 - FileSystemWatcher - INFO - Created action file for: test_file.md
+2026-03-17 08:15:16,126 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:15:16,130 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081516.md
+2026-03-17 08:15:16,136 - FileSystemWatcher - INFO - Created action file for: test_file.md
+2026-03-17 08:15:46,141 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:15:46,145 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081546.md
+2026-03-17 08:15:46,150 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:16:16,153 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:16:16,155 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081616.md
+2026-03-17 08:16:16,157 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:16:46,160 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:16:46,165 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081646.md
+2026-03-17 08:16:46,172 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:17:16,182 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:17:16,311 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081716.md
+2026-03-17 08:17:16,335 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:17:46,341 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:17:46,345 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081746.md
+2026-03-17 08:17:46,348 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:18:16,351 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:18:16,354 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081816.md
+2026-03-17 08:18:16,356 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:18:46,359 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:18:46,366 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081846.md
+2026-03-17 08:18:46,368 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:19:16,372 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:19:16,382 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081916.md
+2026-03-17 08:19:16,387 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:19:46,393 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:19:46,397 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_081946.md
+2026-03-17 08:19:46,403 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:20:16,409 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:20:16,413 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082016.md
+2026-03-17 08:20:16,415 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:20:46,427 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:20:46,474 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082046.md
+2026-03-17 08:20:46,490 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:21:16,526 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:21:16,542 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082116.md
+2026-03-17 08:21:16,550 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:21:46,552 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:21:46,561 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082146.md
+2026-03-17 08:21:46,564 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:22:16,566 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:22:16,568 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082216.md
+2026-03-17 08:22:16,573 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:22:46,576 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:22:46,589 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082246.md
+2026-03-17 08:22:46,592 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:23:16,598 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:23:16,603 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082316.md
+2026-03-17 08:23:16,609 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:23:46,612 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:23:46,617 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082346.md
+2026-03-17 08:23:46,620 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:24:16,623 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:24:16,625 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082416.md
+2026-03-17 08:24:16,627 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:24:46,630 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:24:46,641 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082446.md
+2026-03-17 08:24:46,643 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:25:16,652 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:25:16,657 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082516.md
+2026-03-17 08:25:16,661 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:25:46,666 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:25:46,670 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082546.md
+2026-03-17 08:25:46,674 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:26:16,680 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:26:16,684 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082616.md
+2026-03-17 08:26:16,689 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:26:46,692 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:26:46,702 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082646.md
+2026-03-17 08:26:46,704 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:27:16,718 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:27:16,722 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082716.md
+2026-03-17 08:27:16,723 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:27:46,733 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:27:46,738 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082746.md
+2026-03-17 08:27:46,742 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:28:16,745 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:28:16,750 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082816.md
+2026-03-17 08:28:16,756 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:28:46,766 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:28:46,779 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082846.md
+2026-03-17 08:28:46,785 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:29:16,795 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:29:16,803 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082916.md
+2026-03-17 08:29:16,813 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:29:46,822 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:29:46,827 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_082946.md
+2026-03-17 08:29:46,839 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:30:16,846 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:30:16,852 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083016.md
+2026-03-17 08:30:16,868 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:30:46,878 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:30:46,924 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083046.md
+2026-03-17 08:30:46,928 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:31:16,931 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:31:16,961 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083116.md
+2026-03-17 08:31:17,027 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:31:47,057 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:31:47,061 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083147.md
+2026-03-17 08:31:47,074 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:32:17,081 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:32:17,086 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083217.md
+2026-03-17 08:32:17,091 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:32:47,112 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:32:47,126 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083247.md
+2026-03-17 08:32:47,134 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:33:17,139 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:33:17,182 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083317.md
+2026-03-17 08:33:17,219 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:34:47,183 - FileSystemWatcher - INFO - FileSystemWatcher initialized for vault: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault
+2026-03-17 08:34:47,221 - FileSystemWatcher - INFO - Watching folder: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Inbox
+2026-03-17 08:34:47,226 - FileSystemWatcher - INFO - Starting FileSystemWatcher (interval: 30s)
+2026-03-17 08:34:47,232 - FileSystemWatcher - INFO - Found 1 new item(s)
+2026-03-17 08:34:47,250 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083447.md
+2026-03-17 08:34:47,253 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:35:17,261 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:35:17,296 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_083517.md
+2026-03-17 08:35:17,298 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:35:17,300 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083517.md
+2026-03-17 08:35:17,302 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:35:47,306 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:35:47,311 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_083547.md
+2026-03-17 08:35:47,315 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:35:47,326 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083547.md
+2026-03-17 08:35:47,332 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:36:17,339 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:36:17,342 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_083617.md
+2026-03-17 08:36:17,344 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:36:17,353 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083617.md
+2026-03-17 08:36:17,358 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:36:47,407 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:36:47,420 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_083647.md
+2026-03-17 08:36:47,424 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:36:47,431 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083647.md
+2026-03-17 08:36:47,434 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:37:17,438 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:37:17,443 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_083717.md
+2026-03-17 08:37:17,447 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:37:17,455 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083717.md
+2026-03-17 08:37:17,461 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:37:47,471 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:37:47,474 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_083747.md
+2026-03-17 08:37:47,479 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:37:47,485 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083747.md
+2026-03-17 08:37:47,491 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:38:17,495 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:38:17,506 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_083817.md
+2026-03-17 08:38:17,525 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:38:17,537 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083817.md
+2026-03-17 08:38:17,544 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:38:47,555 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:38:47,559 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_083847.md
+2026-03-17 08:38:47,570 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:38:47,582 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083847.md
+2026-03-17 08:38:47,588 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:39:17,594 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:39:17,598 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_083917.md
+2026-03-17 08:39:17,601 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:39:17,605 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083917.md
+2026-03-17 08:39:17,615 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:39:47,618 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:39:47,625 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_083947.md
+2026-03-17 08:39:47,631 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:39:47,647 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_083947.md
+2026-03-17 08:39:47,651 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:40:17,656 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:40:17,661 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084017.md
+2026-03-17 08:40:17,665 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:40:17,718 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084017.md
+2026-03-17 08:40:17,722 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:40:47,726 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:40:47,738 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084047.md
+2026-03-17 08:40:47,741 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:40:47,759 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084047.md
+2026-03-17 08:40:47,763 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:41:17,771 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:41:17,774 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084117.md
+2026-03-17 08:41:17,780 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:41:17,785 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084117.md
+2026-03-17 08:41:17,789 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:41:47,796 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:41:47,801 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084147.md
+2026-03-17 08:41:47,816 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:41:47,830 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084147.md
+2026-03-17 08:41:47,833 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:42:17,846 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:42:17,851 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084217.md
+2026-03-17 08:42:17,861 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:42:17,874 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084217.md
+2026-03-17 08:42:17,881 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:42:47,887 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:42:47,892 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084247.md
+2026-03-17 08:42:47,905 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:42:47,913 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084247.md
+2026-03-17 08:42:47,920 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:43:17,926 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:43:17,936 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084317.md
+2026-03-17 08:43:17,942 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:43:17,957 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084317.md
+2026-03-17 08:43:17,970 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:43:47,985 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:43:48,004 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084347.md
+2026-03-17 08:43:48,014 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:43:48,018 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084348.md
+2026-03-17 08:43:48,022 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:44:18,043 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:44:18,050 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084418.md
+2026-03-17 08:44:18,061 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:44:18,077 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084418.md
+2026-03-17 08:44:18,087 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:44:48,100 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:44:48,105 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084448.md
+2026-03-17 08:44:48,113 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:44:48,123 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084448.md
+2026-03-17 08:44:48,130 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:45:18,142 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:45:18,146 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084518.md
+2026-03-17 08:45:18,150 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:45:18,165 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084518.md
+2026-03-17 08:45:18,167 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:45:48,173 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:45:48,177 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084548.md
+2026-03-17 08:45:48,184 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:45:48,195 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084548.md
+2026-03-17 08:45:48,199 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:46:18,203 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:46:18,207 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084618.md
+2026-03-17 08:46:18,211 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:46:18,226 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084618.md
+2026-03-17 08:46:18,231 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:46:48,234 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:46:48,237 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084648.md
+2026-03-17 08:46:48,239 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:46:48,245 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084648.md
+2026-03-17 08:46:48,249 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:47:18,255 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:47:18,268 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084718.md
+2026-03-17 08:47:18,273 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:47:18,276 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084718.md
+2026-03-17 08:47:18,278 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:47:48,280 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:47:48,282 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084748.md
+2026-03-17 08:47:48,284 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:47:48,287 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084748.md
+2026-03-17 08:47:48,288 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:48:18,295 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:48:18,355 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084818.md
+2026-03-17 08:48:18,358 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:48:18,364 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084818.md
+2026-03-17 08:48:18,369 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:48:48,373 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:48:48,377 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084848.md
+2026-03-17 08:48:48,379 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:48:48,382 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084848.md
+2026-03-17 08:48:48,384 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:49:18,393 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:49:18,404 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084918.md
+2026-03-17 08:49:18,408 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:49:18,413 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084918.md
+2026-03-17 08:49:18,421 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:49:48,429 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 08:49:48,433 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_084948.md
+2026-03-17 08:49:48,440 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 08:49:48,448 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_084948.md
+2026-03-17 08:49:48,455 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 08:49:48,557 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
+2026-03-17 09:10:25,349 - FileSystemWatcher - INFO - FileSystemWatcher initialized for vault: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault
+2026-03-17 09:10:25,398 - FileSystemWatcher - INFO - Watching folder: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Inbox
+2026-03-17 09:10:25,399 - FileSystemWatcher - INFO - Starting FileSystemWatcher (interval: 30s)
+2026-03-17 09:10:25,402 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 09:10:25,410 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091025.md
+2026-03-17 09:10:25,414 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:10:25,421 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091025.md
+2026-03-17 09:10:25,426 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:10:55,430 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 09:10:55,433 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091055.md
+2026-03-17 09:10:55,434 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:10:55,436 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091055.md
+2026-03-17 09:10:55,438 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:11:25,440 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 09:11:25,442 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091125.md
+2026-03-17 09:11:25,444 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:11:25,446 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091125.md
+2026-03-17 09:11:25,447 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:11:55,449 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 09:11:55,460 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091155.md
+2026-03-17 09:11:55,463 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:11:55,467 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091155.md
+2026-03-17 09:11:55,470 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:12:25,476 - FileSystemWatcher - INFO - Found 2 new item(s)
+2026-03-17 09:12:25,482 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091225.md
+2026-03-17 09:12:25,487 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:12:25,501 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091225.md
+2026-03-17 09:12:25,503 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:12:55,511 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:12:55,514 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091255.md
+2026-03-17 09:12:55,518 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:12:55,523 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091255.md
+2026-03-17 09:12:55,531 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:12:55,542 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091255.md
+2026-03-17 09:12:55,546 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:13:25,551 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:13:25,565 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091325.md
+2026-03-17 09:13:25,574 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:13:25,590 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091325.md
+2026-03-17 09:13:25,599 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:13:25,606 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091325.md
+2026-03-17 09:13:25,612 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:13:55,624 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:13:55,628 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091355.md
+2026-03-17 09:13:55,631 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:13:55,646 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091355.md
+2026-03-17 09:13:55,651 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:13:55,659 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091355.md
+2026-03-17 09:13:55,662 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:14:25,667 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:14:25,669 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091425.md
+2026-03-17 09:14:25,671 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:14:25,675 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091425.md
+2026-03-17 09:14:25,679 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:14:25,687 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091425.md
+2026-03-17 09:14:25,689 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:14:55,694 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:14:55,696 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091455.md
+2026-03-17 09:14:55,698 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:14:55,700 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091455.md
+2026-03-17 09:14:55,704 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:14:55,710 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091455.md
+2026-03-17 09:14:55,715 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:15:25,719 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:15:25,730 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091525.md
+2026-03-17 09:15:25,732 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:15:25,736 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091525.md
+2026-03-17 09:15:25,740 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:15:25,743 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091525.md
+2026-03-17 09:15:25,746 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:15:55,753 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:15:55,759 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091555.md
+2026-03-17 09:15:55,778 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:15:55,791 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091555.md
+2026-03-17 09:15:55,797 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:15:55,804 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091555.md
+2026-03-17 09:15:55,808 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:16:25,812 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:16:25,816 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091625.md
+2026-03-17 09:16:25,818 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:16:25,821 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091625.md
+2026-03-17 09:16:25,825 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:16:25,838 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091625.md
+2026-03-17 09:16:25,841 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:16:55,847 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:16:55,849 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091655.md
+2026-03-17 09:16:55,850 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:16:55,861 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091655.md
+2026-03-17 09:16:55,864 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:16:55,867 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091655.md
+2026-03-17 09:16:55,870 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:17:25,873 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:17:25,883 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091725.md
+2026-03-17 09:17:25,886 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:17:25,893 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091725.md
+2026-03-17 09:17:25,896 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:17:25,901 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091725.md
+2026-03-17 09:17:25,906 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:17:55,946 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:17:55,989 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091755.md
+2026-03-17 09:17:55,992 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:17:56,004 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091755.md
+2026-03-17 09:17:56,006 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:17:56,009 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091756.md
+2026-03-17 09:17:56,011 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:18:26,024 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:18:26,039 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091826.md
+2026-03-17 09:18:26,060 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:18:26,065 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091826.md
+2026-03-17 09:18:26,072 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:18:26,078 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091826.md
+2026-03-17 09:18:26,090 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:18:56,098 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:18:56,101 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091856.md
+2026-03-17 09:18:56,105 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:18:56,113 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091856.md
+2026-03-17 09:18:56,117 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:18:56,121 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091856.md
+2026-03-17 09:18:56,133 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:19:26,136 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:19:26,139 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_091926.md
+2026-03-17 09:19:26,140 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:19:26,143 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_091926.md
+2026-03-17 09:19:26,146 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:19:26,148 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_091926.md
+2026-03-17 09:19:26,151 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:31:17,680 - FileSystemWatcher - INFO - FileSystemWatcher initialized for vault: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault
+2026-03-17 09:31:17,715 - FileSystemWatcher - INFO - Watching folder: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Inbox
+2026-03-17 09:31:17,716 - FileSystemWatcher - INFO - Starting FileSystemWatcher (interval: 30s)
+2026-03-17 09:31:17,717 - FileSystemWatcher - INFO - Found 3 new item(s)
+2026-03-17 09:31:17,719 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_093117.md
+2026-03-17 09:31:17,719 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:31:17,722 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_093117.md
+2026-03-17 09:31:17,723 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:31:17,725 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_093117.md
+2026-03-17 09:31:17,726 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:31:47,732 - FileSystemWatcher - INFO - Found 6 new item(s)
+2026-03-17 09:31:47,742 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_093147.md
+2026-03-17 09:31:47,743 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:31:47,746 - FileSystemWatcher - INFO - Created action file: FILE_DROP_payment_contract_20260317_093147.md
+2026-03-17 09:31:47,748 - FileSystemWatcher - INFO - Created action file for: payment_contract.doc
+2026-03-17 09:31:47,750 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_093147.md
+2026-03-17 09:31:47,751 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:31:47,754 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_093147.md
+2026-03-17 09:31:47,755 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:31:47,758 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_normal_20260317_093147.md
+2026-03-17 09:31:47,758 - FileSystemWatcher - INFO - Created action file for: test_normal.txt
+2026-03-17 09:31:47,760 - FileSystemWatcher - INFO - Created action file: FILE_DROP_URGENT_invoice_20260317_093147.md
+2026-03-17 09:31:47,761 - FileSystemWatcher - INFO - Created action file for: URGENT_invoice.pdf
+2026-03-17 09:32:17,766 - FileSystemWatcher - INFO - Found 6 new item(s)
+2026-03-17 09:32:17,770 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260317_093217.md
+2026-03-17 09:32:17,771 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-17 09:32:17,776 - FileSystemWatcher - INFO - Created action file: FILE_DROP_payment_contract_20260317_093217.md
+2026-03-17 09:32:17,777 - FileSystemWatcher - INFO - Created action file for: payment_contract.doc
+2026-03-17 09:32:17,780 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260317_093217.md
+2026-03-17 09:32:17,781 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-17 09:32:17,783 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260317_093217.md
+2026-03-17 09:32:17,784 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-17 09:32:17,786 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_normal_20260317_093217.md
+2026-03-17 09:32:17,787 - FileSystemWatcher - INFO - Created action file for: test_normal.txt
+2026-03-17 09:32:17,790 - FileSystemWatcher - INFO - Created action file: FILE_DROP_URGENT_invoice_20260317_093217.md
+2026-03-17 09:32:17,791 - FileSystemWatcher - INFO - Created action file for: URGENT_invoice.pdf
+2026-03-18 05:22:18,636 - FileSystemWatcher - INFO - FileSystemWatcher initialized for vault: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault
+2026-03-18 05:22:18,665 - FileSystemWatcher - INFO - Watching folder: E:\hackathon-0\Personal-AI-Employee-Agent\AI_Employee_Vault\Inbox
+2026-03-18 05:22:18,665 - FileSystemWatcher - INFO - Starting FileSystemWatcher (interval: 30s)
+2026-03-18 05:22:18,690 - FileSystemWatcher - INFO - Found 6 new item(s)
+2026-03-18 05:22:18,694 - FileSystemWatcher - INFO - Created action file: FILE_DROP_myfile_20260318_052218.md
+2026-03-18 05:22:18,695 - FileSystemWatcher - INFO - Created action file for: myfile.txt
+2026-03-18 05:22:18,697 - FileSystemWatcher - INFO - Created action file: FILE_DROP_payment_contract_20260318_052218.md
+2026-03-18 05:22:18,704 - FileSystemWatcher - INFO - Created action file for: payment_contract.doc
+2026-03-18 05:22:18,707 - FileSystemWatcher - INFO - Created action file: FILE_DROP_report_20260318_052218.md
+2026-03-18 05:22:18,710 - FileSystemWatcher - INFO - Created action file for: report.txt
+2026-03-18 05:22:18,714 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_file_20260318_052218.md
+2026-03-18 05:22:18,717 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-03-18 05:22:18,721 - FileSystemWatcher - INFO - Created action file: FILE_DROP_test_normal_20260318_052218.md
+2026-03-18 05:22:18,723 - FileSystemWatcher - INFO - Created action file for: test_normal.txt
+2026-03-18 05:22:18,726 - FileSystemWatcher - INFO - Created action file: FILE_DROP_URGENT_invoice_20260318_052218.md
+2026-03-18 05:22:18,727 - FileSystemWatcher - INFO - Created action file for: URGENT_invoice.pdf
+2026-03-18 05:22:47,876 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
+2026-03-18 06:00:03,988 - FileSystemWatcher - INFO - FileSystemWatcher initialized for vault: ..
+2026-03-18 06:00:04,012 - FileSystemWatcher - INFO - Watching folder: ..\Inbox
+2026-03-18 06:00:59,677 - FileSystemWatcher - INFO - FileSystemWatcher initialized for vault: ..
+2026-03-18 06:00:59,679 - FileSystemWatcher - INFO - Watching folder: ..\Inbox
+2026-03-18 06:00:59,684 - FileSystemWatcher - INFO - Created action file: FILE_DROP_FYI_archive_20260318_060059.md
+2026-03-18 06:00:59,686 - FileSystemWatcher - INFO - Created action file for: FYI_archive.txt
+2026-03-18 06:00:59,689 - FileSystemWatcher - INFO - Created action file: FILE_DROP_invoice_test_20260318_060059.md
+2026-03-18 06:00:59,696 - FileSystemWatcher - INFO - Created action file for: invoice_test.pdf
+2026-03-18 06:00:59,699 - FileSystemWatcher - INFO - Created action file: FILE_DROP_payment_contract_20260318_060059.md
+2026-03-18 06:00:59,703 - FileSystemWatcher - INFO - Created action file for: payment_contract.doc
+2026-03-18 06:00:59,705 - FileSystemWatcher - INFO - Created action file: FILE_DROP_qa_normal_test_20260318_060059.md
+2026-03-18 06:00:59,710 - FileSystemWatcher - INFO - Created action file for: qa_normal_test.txt
+2026-03-18 06:00:59,714 - FileSystemWatcher - INFO - Created action file: FILE_DROP_URGENT_critical_invoice_20260318_060059.md
+2026-03-18 06:00:59,716 - FileSystemWatcher - INFO - Created action file for: URGENT_critical_invoice.pdf
